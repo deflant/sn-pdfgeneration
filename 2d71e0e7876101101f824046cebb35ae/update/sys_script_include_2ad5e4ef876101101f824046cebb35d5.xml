@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
     <sys_script_include action="INSERT_OR_UPDATE">
-        <access>package_private</access>
+        <access>public</access>
         <active>true</active>
         <api_name>x_684094_pdf_filla.PDFTemplateUtils</api_name>
         <caller_access/>
@@ -108,13 +108,13 @@ PDFTemplateUtils.prototype = {
         <sys_created_by>alberto.colombo</sys_created_by>
         <sys_created_on>2022-02-14 09:16:31</sys_created_on>
         <sys_id>2ad5e4ef876101101f824046cebb35d5</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>PDFTemplateUtils</sys_name>
         <sys_package display_value="PDF Fillable" source="x_684094_pdf_filla">2d71e0e7876101101f824046cebb35ae</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="PDF Fillable">2d71e0e7876101101f824046cebb35ae</sys_scope>
         <sys_update_name>sys_script_include_2ad5e4ef876101101f824046cebb35d5</sys_update_name>
-        <sys_updated_by>alberto.colombo</sys_updated_by>
-        <sys_updated_on>2022-02-14 12:43:47</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 16:57:55</sys_updated_on>
     </sys_script_include>
 </record_update>
